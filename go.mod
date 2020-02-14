@@ -1,4 +1,4 @@
-module test-project
+module github.com/AzizRahimov/apm-cli
 
 go 1.13
 
