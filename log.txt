@@ -1,0 +1,217 @@
+2020/02/11 15:30:01 start application
+2020/02/11 15:30:01 open db
+2020/02/11 15:30:01 core Init err:near "autoincrement": syntax error
+2020/02/11 15:30:20 start application
+2020/02/11 15:30:20 open db
+2020/02/11 15:30:20 core Init err:near "autoincrement": syntax error
+2020/02/11 15:34:42 start application
+2020/02/11 15:34:42 open db
+2020/02/11 15:34:42 core Init err:near "autoincrement": syntax error
+2020/02/11 15:38:58 start application
+2020/02/11 15:38:58 open db
+2020/02/11 15:38:58 core Init err:near "autoincrement": syntax error
+2020/02/11 15:40:01 start application
+2020/02/11 15:40:01 open db
+2020/02/11 15:41:44 start application
+2020/02/11 15:41:44 open db
+2020/02/11 15:41:44 core Init err:near "autoincrement": syntax error
+2020/02/11 15:42:18 start application
+2020/02/11 15:42:19 open db
+2020/02/11 15:47:32 start application
+2020/02/11 15:47:32 open db
+2020/02/11 15:47:32 start operations loop
+2020/02/11 15:47:43 can't handle login: near ")": syntax error
+2020/02/11 15:47:43 finish operations loop
+2020/02/11 15:47:43 finish application
+2020/02/11 17:10:31 start application
+2020/02/11 17:10:31 open db
+2020/02/11 17:10:31 start operations loop
+2020/02/11 17:10:52 can't handle login: near ")": syntax error
+2020/02/11 17:10:52 finish operations loop
+2020/02/11 17:10:52 finish application
+2020/02/11 17:13:36 start application
+2020/02/11 17:13:36 open db
+2020/02/11 17:13:36 start operations loop
+2020/02/11 17:15:27 start application
+2020/02/11 17:15:27 open db
+2020/02/11 17:15:27 start operations loop
+2020/02/11 17:15:46 start application
+2020/02/11 17:15:46 open db
+2020/02/11 17:15:46 start operations loop
+2020/02/11 17:37:40 start application
+2020/02/11 17:37:40 open db
+2020/02/11 17:37:40 start operations loop
+2020/02/11 17:38:00 can't handle login: no such table: client
+2020/02/11 17:38:00 finish operations loop
+2020/02/11 17:38:00 finish application
+2020/02/11 17:42:37 start application
+2020/02/11 17:42:37 open db
+2020/02/11 17:42:37 start operations loop
+2020/02/11 17:42:54 can't handle login: NOT NULL constraint failed: clients.phone
+2020/02/11 17:42:54 finish operations loop
+2020/02/11 17:42:54 finish application
+2020/02/11 17:44:02 start application
+2020/02/11 17:44:02 open db
+2020/02/11 17:44:02 start operations loop
+2020/02/11 17:45:22 start application
+2020/02/11 17:45:22 open db
+2020/02/11 17:45:22 start operations loop
+2020/02/11 17:45:48 can't handle login: NOT NULL constraint failed: clients.phone
+2020/02/11 17:45:48 finish operations loop
+2020/02/11 17:45:48 finish application
+2020/02/11 17:50:33 start application
+2020/02/11 17:50:33 open db
+2020/02/11 17:50:33 start operations loop
+2020/02/11 17:50:58 can't handle login: NOT NULL constraint failed: clients.phone
+2020/02/11 17:50:58 finish operations loop
+2020/02/11 17:50:58 finish application
+2020/02/11 17:52:07 start application
+2020/02/11 17:52:07 open db
+2020/02/11 17:52:07 start operations loop
+2020/02/11 18:11:27 start application
+2020/02/11 18:11:27 open db
+2020/02/11 18:11:27 start operations loop
+2020/02/11 18:13:51 start application
+2020/02/11 18:13:51 open db
+2020/02/11 18:13:51 start operations loop
+2020/02/11 21:19:37 start application
+2020/02/11 21:19:37 open db
+2020/02/11 21:19:37 start operations loop
+2020/02/11 21:20:20 core CreateAccountForUser error: no such table: account
+2020/02/11 21:20:20 Unable create account for user: no such table: account
+2020/02/11 21:25:59 start application
+2020/02/11 21:25:59 open db
+2020/02/11 21:25:59 start operations loop
+2020/02/12 00:42:45 start application
+2020/02/12 00:42:45 open db
+2020/02/12 00:42:45 start operations loop
+2020/02/12 00:43:29 finish operations loop
+2020/02/12 00:43:29 finish application
+2020/02/12 11:54:38 start application
+2020/02/12 11:54:39 open db
+2020/02/12 11:54:39 start operations loop
+2020/02/12 12:02:06 start application
+2020/02/12 12:02:06 open db
+2020/02/12 12:02:06 start operations loop
+2020/02/12 12:04:26 start application
+2020/02/12 12:04:26 open db
+2020/02/12 12:04:26 start operations loop
+2020/02/12 12:04:33 core GetClientByLogin error: sql: no rows in result set
+2020/02/12 12:09:29 start application
+2020/02/12 12:09:29 open db
+2020/02/12 12:09:29 start operations loop
+2020/02/12 12:09:39 finish operations loop
+2020/02/12 12:09:39 finish application
+2020/02/12 12:11:27 start application
+2020/02/12 12:11:27 open db
+2020/02/12 12:11:27 start operations loop
+2020/02/12 12:12:25 finish operations loop
+2020/02/12 12:12:25 finish application
+2020/02/12 12:14:00 start application
+2020/02/12 12:14:00 open db
+2020/02/12 12:14:00 start operations loop
+2020/02/12 12:14:15 core GetClientByLogin error: sql: no rows in result set
+2020/02/12 12:16:10 start application
+2020/02/12 12:16:10 open db
+2020/02/12 12:16:10 start operations loop
+2020/02/12 12:16:17 start application
+2020/02/12 12:16:17 open db
+2020/02/12 12:16:17 start operations loop
+2020/02/12 12:17:04 core GetClientByLogin error: sql: no rows in result set
+2020/02/12 12:21:35 start application
+2020/02/12 12:21:35 open db
+2020/02/12 12:21:35 start operations loop
+2020/02/12 12:23:30 start application
+2020/02/12 12:23:30 open db
+2020/02/12 12:23:30 start operations loop
+2020/02/12 12:26:52 start application
+2020/02/12 14:31:38 start application
+2020/02/12 14:31:38 open db
+2020/02/12 14:31:38 start operations loop
+2020/02/12 14:55:55 start application
+2020/02/12 14:55:55 open db
+2020/02/12 14:55:55 start operations loop
+2020/02/12 14:56:31 Unable create account for user: strconv.ParseInt: parsing "222222222222222222222222": value out of range
+2020/02/12 15:21:42 start application
+2020/02/12 15:21:42 open db
+2020/02/12 15:21:42 start operations loop
+2020/02/12 15:45:15 start application
+2020/02/12 15:46:00 start application
+2020/02/12 15:46:00 open db
+2020/02/12 15:46:00 start operations loop
+2020/02/12 17:30:59 start application
+2020/02/12 17:30:59 open db
+2020/02/12 17:30:59 core Init err:near "locked": syntax error
+2020/02/12 17:31:13 start application
+2020/02/12 17:31:13 open db
+2020/02/12 17:31:13 core Init err:near "locked": syntax error
+2020/02/12 17:32:50 start application
+2020/02/12 17:32:50 open db
+2020/02/12 17:32:50 core Init err:near "locked": syntax error
+2020/02/12 17:46:07 start application
+2020/02/12 17:46:07 open db
+2020/02/12 17:46:07 core Init err:near "locked": syntax error
+2020/02/12 17:51:24 start application
+2020/02/12 17:51:25 open db
+2020/02/12 17:51:25 core Init err:near "locked": syntax error
+2020/02/12 17:53:45 start application
+2020/02/12 17:53:45 open db
+2020/02/12 18:02:58 start application
+2020/02/12 18:02:58 open db
+2020/02/12 18:02:58 start operations loop
+2020/02/12 18:03:13 : expected newline
+2020/02/12 18:03:18 finish operations loop
+2020/02/12 18:03:18 finish application
+2020/02/12 19:25:10 start application
+2020/02/12 19:25:10 open db
+2020/02/12 19:25:10 core Init err:near ")": syntax error
+2020/02/12 20:15:10 start application
+2020/02/12 20:15:10 open db
+2020/02/12 20:15:10 core Init err:near ")": syntax error
+2020/02/12 20:16:56 start application
+2020/02/12 20:16:57 open db
+2020/02/12 20:21:44 start application
+2020/02/12 20:21:44 open db
+2020/02/12 20:21:44 start operations loop
+2020/02/12 20:22:24 core GetClientByLogin error: sql: no rows in result set
+2020/02/12 20:22:56 core CreateAccountForUser error: NOT NULL constraint failed: accounts.locked
+2020/02/12 20:22:56 Unable create account for user: NOT NULL constraint failed: accounts.locked
+2020/02/12 20:23:11 core AddServices error: table services has no column named balance
+2020/02/12 20:23:11 Cannot add Services: table services has no column named balance
+2020/02/12 20:23:25 core AddAtm error unrecognized token: "'(name, address) VALUES (:name, :address);"
+2020/02/12 20:23:25 cannot add AMT SORRY unrecognized token: "'(name, address) VALUES (:name, :address);"
+2020/02/12 20:40:16 start application
+2020/02/12 20:40:17 open db
+2020/02/12 20:40:17 start operations loop
+2020/02/12 20:42:14 core AddAtm error unrecognized token: "'(name, address) VALUES (:name, :address);"
+2020/02/12 20:42:14 cannot add AMT SORRY unrecognized token: "'(name, address) VALUES (:name, :address);"
+2020/02/12 20:44:29 start application
+2020/02/12 20:44:29 open db
+2020/02/12 20:44:29 start operations loop
+2020/02/13 15:11:22 start application
+2020/02/13 15:11:22 open db
+2020/02/13 15:11:22 start operations loop
+2020/02/14 10:21:06 start application
+2020/02/14 10:21:06 open db
+2020/02/14 10:21:06 start operations loop
+2020/02/14 10:30:05 start application
+2020/02/14 10:30:05 open db
+2020/02/14 10:30:05 start operations loop
+2020/02/14 10:30:20 core AddServices error: <nil>
+2020/02/14 10:30:24 finish operations loop
+2020/02/14 10:30:24 finish application
+2020/02/14 11:53:11 start application
+2020/02/14 11:53:11 open db
+2020/02/14 11:53:11 start operations loop
+2020/02/14 11:54:42 finish operations loop
+2020/02/14 11:54:42 finish application
+2020/02/14 12:01:40 start application
+2020/02/14 12:01:40 open db
+2020/02/14 12:01:40 start operations loop
+2020/02/14 12:01:47 Unable create account for user: wrong client login
+2020/02/14 12:59:04 Can't read input: EOF
+2020/02/14 13:51:24 start application
+2020/02/14 13:51:24 open db
+2020/02/14 13:51:24 start operations loop
+2020/02/14 13:51:25 finish operations loop
+2020/02/14 13:51:25 finish application

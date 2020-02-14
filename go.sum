@@ -1,0 +1,4 @@
+github.com/AzizRahimov/apm-core v0.0.0-20200214103550-fa7be46a4730 h1:Dw9DBxJEzi7RgO51t6W/ShSNI9Gaogc9biUWLLw55zw=
+github.com/AzizRahimov/apm-core v0.0.0-20200214103550-fa7be46a4730/go.mod h1:HE3cJjyTLVpwJOEqttlAgJUCx6F8agcDv9EnBf2baAY=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible h1:gXHsfypPkaMZrKbD5209QV9jbUTJKjyR5WD3HYQSd+U=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
